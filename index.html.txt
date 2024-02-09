@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>My Writing Progress Over Time</h1>
-    <img src="https://darkweiss.github.io/plot.png" alt="Writing Plot">
+    <img src="https://Darkweiss.github.io/plot.png" alt="Writing Plot">
 </body>
 </html>
